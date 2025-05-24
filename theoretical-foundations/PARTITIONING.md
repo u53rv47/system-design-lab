@@ -1,0 +1,3 @@
+# Data Partitioning
+
+Partitioning is the process of dividing a dataset into smaller parts to improve scalability and manageability...

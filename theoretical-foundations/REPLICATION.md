@@ -1,0 +1,3 @@
+# Replication Strategies
+
+Replication ensures data redundancy and availability. It can be synchronous, asynchronous, or semi-synchronous...

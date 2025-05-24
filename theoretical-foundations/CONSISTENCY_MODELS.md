@@ -1,0 +1,3 @@
+# Consistency Models
+
+This document explains various consistency models like strong, eventual, causal, etc...
